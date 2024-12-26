@@ -8,7 +8,7 @@
 ## About Me
 - Started my coding journey by developing Minecraft plugins  
 - Currently studying Applied Computer Science  
-- Professionally, I focus on **C#** and container runtimes like **Kubernetes**, and I'm an expert in all things **DevOps**  
+- Professionally, I focus on **C#** and container runtimes like **Kubernetes**, and I'm an expert in all things related to **DevOps**  
 - Privately, I still enjoy coding in **Java**, especially for my personal projects  
 - Outside of tech, I'm passionate about **hiking** and **photography**  
 - I’m also an avid gamer, playing **Minecraft** and **Rainbow Six Siege**  
