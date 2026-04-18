@@ -20,13 +20,6 @@ I work on the internal platform "paved road" so teams can ship containerized sof
 - Building reliable operations around Kubernetes-based systems
 - Creating a foundation that can scale with airport and logistics demands
 
-```mermaid
-flowchart LR
-	A[Developer Teams] --> B[Container Platform]
-	B --> C[Airport Software]
-	B --> D[Logistics Software]
-```
-
 ## Favorite OpenSource Toolbox
 
 These are the tools I enjoy using most when building and operating platform capabilities:
